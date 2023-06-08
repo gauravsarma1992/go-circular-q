@@ -1,0 +1,5 @@
+{
+  "frequency_threshold": 1000,
+  "rollover_threshold": 10000,
+  "time_threshold_in_secs": 5
+}
